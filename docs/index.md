@@ -8,7 +8,7 @@ We are a replacement for YouTube since 2020.
 
 ### Download
 
-https://github.com/HeytrademixTeam/FireTube/archive/refs/heads/main.zip
+[Click her](https://github.com/HeytrademixTeam/FireTube/archive/refs/heads/main.zip)
 
 ### Support or Contact
 
